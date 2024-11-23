@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@fingerprintjs/fingerprintjs-pro": "^3.11.1",
+    "chart.js": "^4.4.4",
+    "noijs": "^1.4.3"
+  },
+  "type": "module"
+}
